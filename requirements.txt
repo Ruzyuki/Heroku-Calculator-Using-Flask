@@ -1,4 +1,4 @@
-﻿absl-py==1.0.0
+absl-py==1.0.0
 alabaster
 anyio
 appdirs==1.4.4
