@@ -222,7 +222,7 @@ PyWavelets
 
 
 
-PyYAML==6.0
+
 pyzmq
 QDarkStyle
 qstylizer
