@@ -133,7 +133,7 @@ mccabe==0.6.1
 
 mistune
 
-mkl-random
+
 mkl-service==2.4.0
 mock
 more-itertools
