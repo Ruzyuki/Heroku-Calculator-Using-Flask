@@ -40,7 +40,7 @@ charset-normalizer
 chart-studio==1.1.0
 click==8.0.3
 cloudpickle
-clyent==1.2.2
+
 colorama
 colorlover==0.3.0
 comtypes==1.1.10
